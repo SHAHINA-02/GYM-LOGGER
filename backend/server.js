@@ -12,10 +12,13 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: ['https://gym-logger-six.vercel.app', 'http://localhost:5173'],
+  origin: '*',
   credentials: true
 }));
 app.use(express.json());
+
+// Health Check
+app.get('/api/health', (req, res) => res.json({ status: 'ok', message: 'Backend is running' }));
 
 // Connect Database
 connectDB();
