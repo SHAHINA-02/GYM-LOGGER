@@ -10,7 +10,16 @@
 
 **LIVE DEMO:** https://gym-logger-six.vercel.app
 
-SCREENSHOTS-https://github.com/SHAHINA-02/GYM-LOGGER/blob/7a09f475dff65a6e6fb72a5235389ea16e53b5fb/GYM-SC/Screenshot%202026-05-01%20134211.png
+SCREENSHOTS
+<img width="1905" height="872" alt="Screenshot 2026-05-01 134234" src="https://github.com/user-attachments/assets/682d4bde-8737-40a1-a697-7657d586ee08" />
+<img width="1894" height="869" alt="Screenshot 2026-05-01 134211" src="https://github.com/user-attachments/assets/f9c4b1a4-c5d6-4784-8417-0b8d27378bc2" />
+<img width="1905" height="872" alt="Screenshot 2026-05-01 134234" src="https://github.com/user-attachments/assets/95313d12-f6fb-4848-b2c2-2d50013f42f9" />
+
+
+
+
+
+
 
 ---
 
